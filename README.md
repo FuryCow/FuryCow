@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @FuryCow
-- 👀 I’m interested in web-programming
-- 🌱 I’m currently learning ruby and react as well
-- 💞️ I’m looking to collaborate on my pet-project(who knows what it will be in future))
-- 🌐 My portfolio: [portfolio-five-alpha-awvt2webb8.vercel.app](https://portfolio-five-alpha-awvt2webb8.vercel.app/)
-- 📫 How to reach me:
-- email: `dreamweaver0408@gmail.com`
-- telegram: `@FromHellToDestiny`
+- 👋 Hi, I’m Alex — Team Lead & Full-stack Developer
+- 💼 Ruby · Rails · React · Node.js
+- 🤖 AI/LLM engineering: LLM apps, RAG pipelines, agents
+- 🌐 My portfolio: **[portfolio-five-alpha-awvt2webb8.vercel.app](https://portfolio-five-alpha-awvt2webb8.vercel.app/)**
+- 📫 How to reach me: `dreamweaver0408@gmail.com` · telegram `@FromHellToDestiny`
 
 <!---
 FuryCow/FuryCow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
