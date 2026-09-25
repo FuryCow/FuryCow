@@ -12,10 +12,10 @@
 
 ### 🧭 About me
 
-- **Team Lead & Full-stack Developer** — веду и строю веб-продукты от идеи до продакшена
-- Сильная сторона — **Ruby / Rails** бэкенд + **React** фронтенд, REST API, PostgreSQL
-- Последние годы глубоко в **AI/LLM**: LLM-фичи, RAG-пайплайны, агенты и tool loops — от промптов до прода
-- Люблю чистую архитектуру, автоматизацию и продукты, которые «просто работают»
+- **Team Lead & Full-stack Developer** — I lead and build web products from idea to production
+- Strong in **Ruby / Rails** backends + **React** frontends, REST APIs, PostgreSQL
+- Deep into **AI/LLM** in recent years: LLM features, RAG pipelines, agents & tool loops — from prompts to production
+- I value clean architecture, automation, and products that *just work*
 
 ### 🛠 Tech stack
 
