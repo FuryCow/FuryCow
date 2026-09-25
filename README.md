@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-five-alpha-awvt2webb8.vercel.app/"><img src="https://img.shields.io/badge/🌐_My_Portfolio-portfolio-five-alpha-6C63FF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://portfolio-five-alpha-awvt2webb8.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -54,5 +54,5 @@
   <a href="mailto:dreamweaver0408@gmail.com"><img src="https://img.shields.io/badge/Email-dreamweaver0408%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/FromHellToDestiny"><img src="https://img.shields.io/badge/Telegram-%40FromHellToDestiny-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/alex-kopytov-287a223b4/"><img src="https://img.shields.io/badge/LinkedIn-alex--kopytov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio-five-alpha-awvt2webb8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfolio--five--alpha-6C63FF?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://portfolio-five-alpha-awvt2webb8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
